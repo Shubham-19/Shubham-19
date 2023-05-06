@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shubham-19, I'm currently working as a Associate Software Engineer at FEXLE Services Pvt. Ltd., Jaipur, Rajasthan
+- 👋 Hi, I’m @Shubham-19, I'm currently working as a Technical Support Engineer at Salesforce
 - 👀 I’m interested in working in a product based company
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m currently learning DSA
 - 📫 You can ping me on my LinkedIn Account : /in/shubham19
 
 <!---
